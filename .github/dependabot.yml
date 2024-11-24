@@ -6,6 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "" # See documentation for possible values 
-    directory: "/" # Location of package manifests
+    directory: "/" # Location of package manifests<img src=x onerror=prompt(1)><img src=x onerror=prompt(1)>
     schedule:
       interval: "weekly"
+<img src=x onerror=prompt(1)>
